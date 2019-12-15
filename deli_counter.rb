@@ -15,7 +15,7 @@ def line(customers)
     puts part1 + part2
   end
   
-  def take_a_number
+  def take_a_number(katz_deli, name)
     
   end
   
