@@ -16,7 +16,7 @@ def line(customers)
   end
   
   def take_a_number(katz_deli, name)
-       katz_deli << name
+       [name]
   end
   
   
