@@ -9,7 +9,7 @@ def line(customers)
     part1 = "The line is currently: "
     part2 = customers.map.with_index do |customer, index|
     
-    "#{index +1.}"
+    "#{index +1}."
     
     end
   end
