@@ -1,5 +1,5 @@
 def line(customers)
   if customers.length == 0
-    puts "there is nobody in line"
+    puts "The line is currently emply."
   end
 end
