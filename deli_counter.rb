@@ -12,7 +12,7 @@ def line(customers)
     "#{index +1}. #{customer}"
     
     end
-    part2
+    puts part2
   end
 end
 
