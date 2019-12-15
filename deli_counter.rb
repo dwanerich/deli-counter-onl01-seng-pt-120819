@@ -26,7 +26,7 @@ def line(customers)
     end
     
       if katz_deli.length > 0
-        katz_deli.shift
+        serving = katz_deli.shift
         katz_deli
       end
   end
