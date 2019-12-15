@@ -11,7 +11,7 @@ def line(customers)
     
     "#{index +1}. #{customer}"
     
-    end
+    end.join("")
     puts part2
   end
 end
