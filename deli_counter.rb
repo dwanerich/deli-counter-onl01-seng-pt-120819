@@ -5,5 +5,6 @@ def line(customers)
   
   if customer.length > 0
     puts customers
+  end
 end
 
