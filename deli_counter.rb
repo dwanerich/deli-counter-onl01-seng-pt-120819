@@ -14,5 +14,7 @@ def line(customers)
     end.join(" ")
     puts part1 + part2
   end
+  
+  
 end
 
