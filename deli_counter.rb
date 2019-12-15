@@ -3,7 +3,7 @@ def line(customers)
     puts "The line is currently empty."
   end
   
-  if customer.length > 0
+  if customers.length > 0
     
     
     part1 = "The line is currently: "
