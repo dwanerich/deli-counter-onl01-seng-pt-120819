@@ -24,6 +24,10 @@ def line(customers)
       if katz_deli.length == 0
       puts "There is nobody waiting to be served!"
     end
+    
+      if katz_deli.length > 0
+        
+        serving = katz_deli.shift
   end
   
   
