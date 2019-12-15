@@ -28,6 +28,7 @@ def line(customers)
       if katz_deli.length > 0
         katz_deli.shift
         katz_deli
+      end
   end
   
   
