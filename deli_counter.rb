@@ -12,7 +12,7 @@ def line(customers)
     "#{index +1}. #{customer}"
     
     end.join(" ")
-    puts part2
+    puts part1 + part2
   end
 end
 
