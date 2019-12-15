@@ -27,6 +27,7 @@ def line(customers)
     
       if katz_deli.length > 0
         serving = katz_deli.shift
+        puts "Currently serving #{serving}."
         katz_deli
       end
   end
